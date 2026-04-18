@@ -1,4 +1,4 @@
-# Multi_Agent_Research_System
+# Deep_Research_Multi_Agent_System
 
 This project is an AI-powered research workflow built using a **multi-agent architecture**. Each agent has a specialized role — searching, reading, writing, and critiquing — and they collaborate to generate structured, professional research reports.
 
