@@ -17,7 +17,7 @@ This project is an AI-powered research workflow built using a **multi-agent arch
 ## 🔹 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Multi_Agent_Research_System.git
+   git clone https://github.com/<your-username>/Deep_Research_Multi_Agent_System.git
    cd Multi_Agent_Research_System
 ## 🔹 Create a virtual environment:
 bash
